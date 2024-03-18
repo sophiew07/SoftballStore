@@ -1,1 +1,1 @@
-This program helps users find the perfect softball equipment needed to play ball! It includes a link to each product, along with the price.
+This program helps users find the perfect softball equipment needed to play ball! It includes a link to each product, the price of each product, and even tells the user whether their budget can afford the product.
